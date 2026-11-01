@@ -4,9 +4,12 @@ hide:
   - toc
 ---
 
-# Spur0 Team Naumburg
+# Willkommen bei den Spur0 Freunden Naumburg
 
-> Informationen und Neuigkeiten der Spur0-Freunde aus Naumburg
+Jeden ersten Freitag von 10 bis 17 Uhr Bau- und Fahrtag.
+
+!!! Info
+    Gäste nur mit Voranmeldung!
 
 ## Kontakt
 
