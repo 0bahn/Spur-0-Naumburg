@@ -6,7 +6,7 @@ hide:
 
 # Über uns
 
-Das Spur0 Team Naumburg ist Teil des MEC Apolda am Standart Naumburg, Kroppentalstraße 15.
+*Projekt Naumburg* wurde am 01.09.2022 gestartet. 
 Am Anfang waren wir nur 4 Leute, ein Raum von 80qm, eine Menge Arbeit und reichlichen Fantasie.
 Einmal hergerichtet und schnell mit Modulen gefüllt, mussten wir eine Entscheidung treffen, denn die Raumgröße würde nicht reichen.
 Es gab nur eine Alternative. 
