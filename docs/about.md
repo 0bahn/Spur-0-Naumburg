@@ -11,6 +11,10 @@ Am Anfang waren wir nur 4 Leute, ein Raum von 80qm, eine Menge Arbeit und reichl
 Einmal hergerichtet und schnell mit Modulen gefüllt, mussten wir eine Entscheidung treffen, denn die Raumgröße würde nicht reichen.
 Es gab nur eine Alternative. 
 Ein Raum mit 450qm, Sanierungsbedürftig und komplett mit Stühlen, Schränken, Türen, zum Teil bis an die Decke gestapelt, vollgestellt.
+
+![Bahn1](/Spur-0-Naumburg/images/2024-1.jpg)
+![Bahn1](/Spur-0-Naumburg/images/2024-2.jpg)
+
 Inzwischen hatte sich die Mitgliederzahl auf 10 erhöht.
 Doch schien die Arbeit nicht enden zu wollen.
 Wände erstellen, Putzen und Malern, Fenster und Türen einbauen, Elektroinstallation, usw.
