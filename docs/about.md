@@ -13,8 +13,8 @@ Es gab nur eine Alternative.
 Ein Raum mit 450qm, Sanierungsbedürftig und komplett mit Stühlen, Schränken, Türen, zum Teil bis an die Decke gestapelt, vollgestellt.
 
 <div class="grid" markdown>
-![Bahn1](/images/2024-1.jpg){ width=49% }
-![Bahn1](/images/2024-2.jpg){ width=49% }
+![Bahn1](/Spur-0-Naumburg/images/2024-1.jpg){ width=49% }
+![Bahn1](/Spur-0-Naumburg/images/2024-2.jpg){ width=49% }
 </div>
 
 Inzwischen hatte sich die Mitgliederzahl auf 10 erhöht.
