@@ -12,3 +12,7 @@ hide:
 ![Bahn3](/Spur-0-Naumburg/images/Nau15.jpg){ width=49% }
 
 </div>
+
+Neben der Regelspur wird es auch einen Schmalspurbereich geben.
+
+![Bahn3](/Spur-0-Naumburg/images/0m-1.jpg)
