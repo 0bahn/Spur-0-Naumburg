@@ -33,9 +33,9 @@ site_author = "Spur0 Team Naumburg"
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-#copyright = """
-#Copyright &copy; 2026 Spur1 Naumburg
-#"""
+copyright = """
+Copyright &copy; 2026 Spur0 Team Naumburg
+"""
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
@@ -277,8 +277,8 @@ features = [
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
+[project.theme.icon]
+logo = "lucide/train-front"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts

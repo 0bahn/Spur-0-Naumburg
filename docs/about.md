@@ -23,3 +23,8 @@ Wände erstellen, Putzen und Malern, Fenster und Türen einbauen, Elektroinstall
 Im Prinzip eine komplette Sanierung.
 An dieser Stelle ein besonders großes Dankeschön an die viele fließigen Helfer, welche uns die ganze Zeit über unterstützt haben.
 
+<div class="grid" markdown>
+![Bahn1](/Spur-0-Naumburg/images/bau14.jpg){ width=25% }
+![Bahn1](/Spur-0-Naumburg/images/bau11.jpg){ width=30% }
+![Bahn1](/Spur-0-Naumburg/images/Nau02.jpg){ width=23% }
+</div>
