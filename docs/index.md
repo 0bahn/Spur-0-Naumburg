@@ -8,10 +8,7 @@ hide:
 
 Das Spur0 Team Naumburg ist Teil des MEC Apolda am Standart Naumburg, Kroppentalstraße 15.
 
-Jeden ersten Freitag von 10 bis 17 Uhr Bau- und Fahrtag.
 
-!!! Info
-    Gäste bitte nur mit Voranmeldung!
 
 ## Kontakt
 

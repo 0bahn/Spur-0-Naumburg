@@ -9,13 +9,10 @@ hide:
 !!! Info
     Wir bitten in jedem Fall um Voranmeldung!
 
-## Unser Treffpunkt Eisenbahn hat in der Regel wie folgt geöffnet
-
-* März bis Oktober jeden **Freitag 10-16Uhr** (Vormittag Arbeitstag und Nachmittag rollen auch ein paar Züge).
+* Jeden ersten und dritten Freitag von 10 bis 17 Uhr Bau- und Fahrtag.
 * Längere Öffnungszeiten und andere Tage bitte anfragen.
-* Herbstausstellung mit der *Modellwelt Naumburg/Saale* am **26.September 2026 ab 10Uhr**.
+* Nächste Ausstellung am **05.12.2026**
 
 !!! Info
-    Für unsere großen Aufgaben suche wir noch Mitstreiter, gerne auch Spur1-Anfänger.
+    Für unsere großen Aufgaben suche wir noch Mitstreiter, gerne auch Spur0-Anfänger
 
-Wer sich alles einmal ansehen möchte und mehr über uns erfahren möchte, ist herzlich zu unseren Info-Nachmittagen jeweils **Freitag von 13-17 Uhr** eingeladen.
