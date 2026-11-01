@@ -44,37 +44,23 @@ site_author = "Spur1 Naumburg"
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
- nav = [
-     { "Startseite" = [
-         "index.md",
-     ]},
-     { "Blog" = [
-         { "2026" = [
-             { "April" = [
-                 "blog/2026/04/23.md",
-                 "blog/2026/04/12.md",
-                 "blog/2026/04/01.md",
-             ]},
-             { "Januar" = [
-                 "blog/2026/01/15.md",
-                 "blog/2026/01/04.md",
-             ]},
-         ]},
-         { "2025" = [
-             { "Dezember" = [
-                "blog/2025/12/20.md",
-                 "blog/2025/12/10.md",
-             ]},
-             { "Oktober" = [
-                 "blog/2025/10/22.md",
-                 "blog/2025/10/15.md",
-             ]},
-         ]},
-     ]},
-     { "Kontakt" = [
-         "kontakt.md",
-     ]},
- ]
+  nav = [
+    { "Startseite" = [
+        "index.md",
+    ]},
+    { "Aktuelles / Termine" = [
+        "dates.md",
+    ]},
+    { "Bilder" = [
+        "images.md",
+    ]},
+    { "Über uns / Werdegang" = [
+        "about.md",
+    ]},
+    { "Gästebuch" = [
+        "guestbook.md",
+    ]}
+  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -330,10 +316,6 @@ toggle.name = "Switch to light mode"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-[[project.extra.social]]
-icon = "fontawesome/solid/address-card"
-link = "/kontakt"
-
 [project.extra.status]
 new = "Neu"
 
