@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-# IG Spur1-Mitteldeutschland
+# Spur0 Team Naumburg
 
-> Informationen und Neuigkeiten der Spur1-Freunde aus Naumburg
+> Informationen und Neuigkeiten der Spur0-Freunde aus Naumburg
 
 ## Eisenbahnfreunde
 
