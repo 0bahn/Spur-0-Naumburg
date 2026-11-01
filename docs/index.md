@@ -8,24 +8,14 @@ hide:
 
 > Informationen und Neuigkeiten der Spur0-Freunde aus Naumburg
 
-## Eisenbahnfreunde
-
-<div class="grid cards" markdown>
-- :fontawesome-solid-train: [__Spur1 Leipzig__](https://www.spur1-leipzig.de/)
-- :fontawesome-solid-train: [__Apoldaer-EF__](http://www.apoldaer-eisenbahnfreunde.de/)
-- :fontawesome-solid-train: [__Spur1 Berlin__](http://www.spur-1-freunde.de/)
-- :fontawesome-solid-comments: [__Spur1 Gemeinschaftsforum__](https://www.s1gf.de/)
-- :fontawesome-brands-youtube: [__Bericht aus BLKreginalTV__](https://www.youtube.com/watch?v=B2DZ1U3l2Js)
-</div>
-
 ## Kontakt
 
 <div class="grid cards" markdown>
--   :fontawesome-solid-at: [spur1-naumburg@web.de](mailto:spur1-naumburg@web.de)
+-   :fontawesome-solid-at: [ulf.haussen@gmx.de](mailto:ulf.haussen@gmx.de) (Ulf Haußen)
 
--   :fontawesome-solid-phone: [0151 6733 2074](tel:015167332074) (Peter Megges)
+-   :fontawesome-solid-phone: [000](tel:000)
 
--   :fontawesome-solid-location-dot: [IG-Spur1-Mitteldeutschland](https://maps.app.goo.gl/RWxLn7kRMwECZwCy6)  
+-   :fontawesome-solid-location-dot: [Spur0-Team-Naumburg](https://maps.app.goo.gl/RWxLn7kRMwECZwCy6)  
     Kroppentalstr.15 (Nähe Caravan-Rossol)  
     06618 Naumburg
 </div>
