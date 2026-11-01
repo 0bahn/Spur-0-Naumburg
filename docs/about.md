@@ -12,8 +12,10 @@ Einmal hergerichtet und schnell mit Modulen gefüllt, mussten wir eine Entscheid
 Es gab nur eine Alternative. 
 Ein Raum mit 450qm, Sanierungsbedürftig und komplett mit Stühlen, Schränken, Türen, zum Teil bis an die Decke gestapelt, vollgestellt.
 
-![Bahn1](/Spur-0-Naumburg/images/2024-1.jpg)
-![Bahn1](/Spur-0-Naumburg/images/2024-2.jpg)
+<div class="grid" markdown>
+![Bahn1](/images/2024-1.jpg){ width=49% }
+![Bahn1](/images/2024-2.jpg){ width=49% }
+</div>
 
 Inzwischen hatte sich die Mitgliederzahl auf 10 erhöht.
 Doch schien die Arbeit nicht enden zu wollen.
