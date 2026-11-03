@@ -7,7 +7,7 @@ hide:
 # Aktuelles / Termine
 
 !!! Info
-    Wir bitten in jedem Fall um Voranmeldung!
+    Wir bitten um Voranmeldung!
 
 * Jeden ersten und dritten Freitag von 10 bis 17 Uhr Bau- und Fahrtag.
 * Längere Öffnungszeiten und andere Tage bitte anfragen.
