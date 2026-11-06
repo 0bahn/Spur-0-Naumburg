@@ -13,6 +13,8 @@ hide:
 * Längere Öffnungszeiten und andere Tage bitte anfragen.
 * Nächste Ausstellung am **05.12.2026**
 
+![Bahn1](/images/12-2026.jpg){ width=25% }
+
 !!! Info
     Für unsere großen Aufgaben suche wir noch Mitstreiter, gerne auch Spur0-Anfänger
 
