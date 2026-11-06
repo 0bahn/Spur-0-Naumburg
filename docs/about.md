@@ -13,8 +13,8 @@ Es gab nur eine Alternative.
 Ein Raum mit 450qm, Sanierungsbedürftig und komplett mit Stühlen, Schränken, Türen, zum Teil bis an die Decke gestapelt, vollgestellt.
 
 <div class="grid" markdown>
-![Bahn1](/Spur-0-Naumburg/images/2024-1.jpg){ width=49% }
-![Bahn1](/Spur-0-Naumburg/images/2024-2.jpg){ width=49% }
+![Bahn1](/images/2024-1.jpg){ width=49% }
+![Bahn1](/images/2024-2.jpg){ width=49% }
 </div>
 
 Inzwischen hatte sich die Mitgliederzahl auf 10 erhöht.
@@ -24,7 +24,7 @@ Im Prinzip eine komplette Sanierung.
 An dieser Stelle ein besonders großes Dankeschön an die viele fließigen Helfer, welche uns die ganze Zeit über unterstützt haben.
 
 <div class="grid" markdown>
-![Bahn1](/Spur-0-Naumburg/images/bau14.jpg){ width=25% align=top }
-![Bahn1](/Spur-0-Naumburg/images/bau11.jpg){ width=30% align=top }
-![Bahn1](/Spur-0-Naumburg/images/Nau02.jpg){ width=23% align=top }
+![Bahn1](/images/bau14.jpg){ width=25% align=top }
+![Bahn1](/images/bau11.jpg){ width=30% align=top }
+![Bahn1](/images/Nau02.jpg){ width=23% align=top }
 </div>
