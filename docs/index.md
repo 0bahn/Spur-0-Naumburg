@@ -6,7 +6,7 @@ hide:
 
 # Willkommen bei den Spur0 Freunden Naumburg
 
-Das Spur0 Team Naumburg ist Teil des MEC Apolda am Standart Naumburg, Kroppentalstraße 15.
+Das Spur0 Team Naumburg ist Teil des MEC Apolda am Standort Naumburg, Kroppentalstraße 15.
 
 
 
